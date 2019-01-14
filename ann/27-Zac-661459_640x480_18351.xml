@@ -1,0 +1,26 @@
+<annotation>
+	<folder>cam</folder>
+	<filename>27-Zac-661459_640x480_18351.bmp</filename>
+	<relpath>..\cam\27-Zac-661459_640x480_18351.bmp</relpath>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>carpet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>263</xmin>
+			<ymin>351</ymin>
+			<xmax>480</xmax>
+			<ymax>374</ymax>
+		</bndbox>
+	</object>
+</annotation>
