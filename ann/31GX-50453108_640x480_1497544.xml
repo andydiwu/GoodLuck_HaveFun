@@ -1,0 +1,26 @@
+<annotation>
+	<folder>31-关鑫</folder>
+	<filename>31GX-50453108_640x480_1497544.bmp</filename>
+	<relpath>..\..\31-关鑫\31GX-50453108_640x480_1497544.bmp</relpath>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Ruby</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>1</difficult>
+		<bndbox>
+			<xmin>278</xmin>
+			<ymin>281</ymin>
+			<xmax>364</xmax>
+			<ymax>392</ymax>
+		</bndbox>
+	</object>
+</annotation>

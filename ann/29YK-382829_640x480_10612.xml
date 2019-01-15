@@ -1,0 +1,26 @@
+<annotation>
+	<folder>29-卫雅坤</folder>
+	<filename>29YK-382829_640x480_10612.bmp</filename>
+	<relpath>..\..\29-卫雅坤\29YK-382829_640x480_10612.bmp</relpath>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>others</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>387</xmin>
+			<ymin>323</ymin>
+			<xmax>479</xmax>
+			<ymax>362</ymax>
+		</bndbox>
+	</object>
+</annotation>

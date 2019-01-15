@@ -1,0 +1,26 @@
+<annotation>
+	<folder>28-老狼test</folder>
+	<filename>28LL116413_640x480_2631.bmp</filename>
+	<relpath>..\..\28-老狼test\28LL116413_640x480_2631.bmp</relpath>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>others</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>455</xmin>
+			<ymin>296</ymin>
+			<xmax>564</xmax>
+			<ymax>368</ymax>
+		</bndbox>
+	</object>
+</annotation>

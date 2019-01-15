@@ -1,0 +1,26 @@
+<annotation>
+	<folder>29-卫雅坤</folder>
+	<filename>29YK-241285_640x480_6365.bmp</filename>
+	<relpath>..\..\29-卫雅坤\29YK-241285_640x480_6365.bmp</relpath>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>wire</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>441</xmin>
+			<ymin>262</ymin>
+			<xmax>640</xmax>
+			<ymax>376</ymax>
+		</bndbox>
+	</object>
+</annotation>

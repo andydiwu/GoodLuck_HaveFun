@@ -1,0 +1,26 @@
+<annotation>
+	<folder>29-卫雅坤</folder>
+	<filename>29YK-1059913_640x480_30928.bmp</filename>
+	<relpath>..\..\29-卫雅坤\29YK-1059913_640x480_30928.bmp</relpath>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Ruby</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>312</xmin>
+			<ymin>332</ymin>
+			<xmax>362</xmax>
+			<ymax>361</ymax>
+		</bndbox>
+	</object>
+</annotation>
