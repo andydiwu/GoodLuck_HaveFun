@@ -1,0 +1,26 @@
+<annotation>
+	<folder>35-罗晗</folder>
+	<filename>35LH-134653_640x480_3173.bmp</filename>
+	<relpath>..\..\..\35-罗晗\35LH-134653_640x480_3173.bmp</relpath>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>shoe</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>218</xmin>
+			<ymin>315</ymin>
+			<xmax>403</xmax>
+			<ymax>378</ymax>
+		</bndbox>
+	</object>
+</annotation>

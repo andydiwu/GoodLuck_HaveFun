@@ -1,0 +1,26 @@
+<annotation>
+	<folder>32-薅总</folder>
+	<filename>32HZ-43811619_640x480_1298124.bmp</filename>
+	<relpath>..\..\..\32-薅总\32HZ-43811619_640x480_1298124.bmp</relpath>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>others</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>72</xmin>
+			<ymin>282</ymin>
+			<xmax>278</xmax>
+			<ymax>351</ymax>
+		</bndbox>
+	</object>
+</annotation>

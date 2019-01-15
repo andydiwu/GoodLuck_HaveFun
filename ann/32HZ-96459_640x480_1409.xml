@@ -1,0 +1,38 @@
+<annotation>
+	<folder>32-薅总</folder>
+	<filename>32HZ-96459_640x480_1409.bmp</filename>
+	<relpath>..\..\..\32-薅总\32HZ-96459_640x480_1409.bmp</relpath>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bar stool</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>95</xmin>
+			<ymin>318</ymin>
+			<xmax>258</xmax>
+			<ymax>348</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Ruby</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>481</xmin>
+			<ymin>321</ymin>
+			<xmax>518</xmax>
+			<ymax>345</ymax>
+		</bndbox>
+	</object>
+</annotation>

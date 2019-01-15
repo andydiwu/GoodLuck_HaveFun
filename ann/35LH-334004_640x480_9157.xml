@@ -1,0 +1,26 @@
+<annotation>
+	<folder>35-罗晗</folder>
+	<filename>35LH-334004_640x480_9157.bmp</filename>
+	<relpath>..\..\..\35-罗晗\35LH-334004_640x480_9157.bmp</relpath>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>curtain</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>1</difficult>
+		<bndbox>
+			<xmin>350</xmin>
+			<ymin>42</ymin>
+			<xmax>444</xmax>
+			<ymax>322</ymax>
+		</bndbox>
+	</object>
+</annotation>

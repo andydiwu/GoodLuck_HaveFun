@@ -1,0 +1,26 @@
+<annotation>
+	<folder>33-柳稳</folder>
+	<filename>33LY-119699_640x480_2656.bmp</filename>
+	<relpath>..\..\..\33-柳稳\33LY-119699_640x480_2656.bmp</relpath>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>curtain</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>1</difficult>
+		<bndbox>
+			<xmin>295</xmin>
+			<ymin>253</ymin>
+			<xmax>316</xmax>
+			<ymax>345</ymax>
+		</bndbox>
+	</object>
+</annotation>

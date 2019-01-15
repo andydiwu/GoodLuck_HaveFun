@@ -1,0 +1,26 @@
+<annotation>
+	<folder>34-毛伟红</folder>
+	<filename>34WH-409981_640x480_10724.bmp</filename>
+	<relpath>..\..\..\34-毛伟红\34WH-409981_640x480_10724.bmp</relpath>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>curtain</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>229</xmin>
+			<ymin>159</ymin>
+			<xmax>373</xmax>
+			<ymax>339</ymax>
+		</bndbox>
+	</object>
+</annotation>
