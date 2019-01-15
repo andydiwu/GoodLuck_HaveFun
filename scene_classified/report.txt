@@ -1,0 +1,10 @@
+balcony      has  10     images.
+bedroom      has  53     images.
+corridor     has  0      images.
+dining room  has  13     images.
+kids' room   has  0      images.
+kitchen      has  15     images.
+living room  has  46     images.
+others       has  341    images.
+restroom     has  12     images.
+study        has  0      images.
