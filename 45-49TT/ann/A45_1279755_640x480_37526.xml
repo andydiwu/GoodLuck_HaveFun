@@ -1,0 +1,50 @@
+<?xml version="1.0" ?><annotation>
+	<folder>cam</folder>
+	<filename>A45_1279755_640x480_37526.bmp</filename>
+	<relpath>../cam/A45_1279755_640x480_37526.bmp</relpath>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pet feces</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>310</xmin>
+			<ymin>360</ymin>
+			<xmax>345</xmax>
+			<ymax>396</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>pet feces</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>462</xmin>
+			<ymin>348</ymin>
+			<xmax>503</xmax>
+			<ymax>380</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>pet feces</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>552</xmin>
+			<ymin>356</ymin>
+			<xmax>580</xmax>
+			<ymax>375</ymax>
+		</bndbox>
+	</object>
+</annotation>

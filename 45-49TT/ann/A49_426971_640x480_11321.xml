@@ -1,0 +1,26 @@
+<?xml version="1.0" ?><annotation>
+	<folder>cam</folder>
+	<filename>A49_426971_640x480_11321.bmp</filename>
+	<relpath>../cam/A49_426971_640x480_11321.bmp</relpath>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Ruby</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>392</xmin>
+			<ymin>282</ymin>
+			<xmax>502</xmax>
+			<ymax>367</ymax>
+		</bndbox>
+	</object>
+</annotation>

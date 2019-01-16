@@ -1,0 +1,26 @@
+<?xml version="1.0" ?><annotation>
+	<folder>cam</folder>
+	<filename>A49_519333_640x480_14090.bmp</filename>
+	<relpath>../cam/A49_519333_640x480_14090.bmp</relpath>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>toy</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>248</xmin>
+			<ymin>257</ymin>
+			<xmax>412</xmax>
+			<ymax>344</ymax>
+		</bndbox>
+	</object>
+</annotation>

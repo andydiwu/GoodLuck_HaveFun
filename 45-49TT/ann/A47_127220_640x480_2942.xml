@@ -1,0 +1,38 @@
+<?xml version="1.0" ?><annotation>
+	<folder>cam</folder>
+	<filename>A47_127220_640x480_2942.bmp</filename>
+	<relpath>../cam/A47_127220_640x480_2942.bmp</relpath>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>curtain</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>531</xmin>
+			<ymin>112</ymin>
+			<xmax>640</xmax>
+			<ymax>358</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>pet feces</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>283</xmin>
+			<ymin>355</ymin>
+			<xmax>307</xmax>
+			<ymax>371</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<?xml version="1.0" ?><annotation>
+	<folder>cam</folder>
+	<filename>A47_3391525_640x480_100823.bmp</filename>
+	<relpath>../cam/A47_3391525_640x480_100823.bmp</relpath>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>others</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>1</difficult>
+		<bndbox>
+			<xmin>352</xmin>
+			<ymin>357</ymin>
+			<xmax>386</xmax>
+			<ymax>363</ymax>
+		</bndbox>
+	</object>
+</annotation>
